@@ -1,0 +1,33 @@
+ 
+body{
+    margin: 0;
+    background-color: #c0abab;
+}
+ 
+.top{
+    background-color: cornflowerblue;
+    height:150px;
+    border-bottom: 2px solid black;
+}
+ 
+.container{
+    width:80%;
+    margin: 0 auto;
+    height: 350px;
+    background-color: white;
+}
+ 
+.foot{
+    height: 75px;
+    border-top: 2px solid black;
+ 
+}
+
+.logo{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    width: 250px;
+    border:thin solid white;
+}

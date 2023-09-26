@@ -1,0 +1,30 @@
+ 
+body{
+    background-color: cadetblue;
+}
+ 
+#content{
+    width: 760px;
+    margin: 0 auto;
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+ 
+.myparagraph{
+    color: rgb(250, 136, 136);
+    font-size: 14pt;
+    padding: 10px;
+    margin: 20px;
+    border: thin solid black;
+}
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+ 
+a:hover {
+    color: white;
+    background-color: gray;
+}
